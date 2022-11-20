@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/photo-cv.jpg" alt="Jérôme Ollivier Back-end Developper" height="200" style="margin-right: 50px"/>
+  <!-- <img src="img/photo-cv.jpg" alt="Jérôme Ollivier Back-end Developper" height="200" style="margin-right: 50px"/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=Spirecool&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
 <p>
