@@ -1,6 +1,6 @@
 <p align="center">
   <!-- <img src="img/photo-cv.jpg" alt="Jérôme Ollivier Back-end Developper" height="200" style="margin-right: 50px"/> -->
-  <img src="https://github-stats-alpha.vercel.app/api?username={Spirecool}" alt="Github Stats" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Spirecool" alt="Github Stats" />
 </p>
 <p>
   <strong>Hello, I'm Jérôme,</strong> Web developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Orléans, France</b>.
